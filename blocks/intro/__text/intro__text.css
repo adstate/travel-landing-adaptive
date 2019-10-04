@@ -1,0 +1,12 @@
+@import url(./_column/intro__text_column_main.css);
+
+.intro__text {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-top: 0;
+    margin-bottom: 0;
+}

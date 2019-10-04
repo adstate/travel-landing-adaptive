@@ -1,0 +1,14 @@
+.header__lang {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 23px;
+    text-decoration: unset;
+    color: #FFFFFF;
+    margin-right: 18px;
+}
+
+.header__lang:last-of-type {
+    margin-right: 0;
+}
