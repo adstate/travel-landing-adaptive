@@ -1,0 +1,12 @@
+@import url(./_indent/place__paragraph_indent_bottom.css);
+
+
+.place__paragraph {
+    margin: 0;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
