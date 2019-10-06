@@ -1,0 +1,7 @@
+.video__item-bg {
+    width: 583px;
+    height: 323px;
+    object-fit: fill;
+    opacity: 0.5;
+    border-radius: 5px;
+}

@@ -4,3 +4,7 @@
     padding-top: 92px;
     margin: 0 auto;
 }
+
+.places .place:last-of-type {
+    margin-bottom: 0;
+}
