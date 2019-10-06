@@ -1,0 +1,7 @@
+.video__description {
+    position: absolute;
+    z-index: 1;
+    bottom: 30px;
+    left: 30px;
+    width: 322px;
+}

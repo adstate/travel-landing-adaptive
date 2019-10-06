@@ -1,0 +1,7 @@
+.video__item {
+    position: relative;
+    width: 583px;
+    height: 323px;
+    border-radius: 5px;
+    background-color: #000000;
+}

@@ -7,11 +7,17 @@
 @import url(../blocks/photo-grid/photo-grid.css);
 @import url(../blocks/places/places.css);
 @import url(../blocks/place/place.css);
+@import url(../blocks/content-title/content-title.css);
+@import url(../blocks/content-subtitle/content-subtitle.css);
+@import url(../blocks/video/video.css);
+@import url(../blocks/additional/additional.css);
+@import url(../blocks/comments/comments.css);
+
 
 div, p, img, h1, h2, h3, header, footer, section {
     border: 1px solid red;
 }
 
-.page {
+.page * {
     box-sizing: border-box;
 }
