@@ -8,7 +8,7 @@
 @import url(../blocks/places/places.css);
 @import url(../blocks/place/place.css);
 
-div, p, img, h1, h2, h3, header, footer {
+div, p, img, h1, h2, h3, header, footer, section {
     border: 1px solid red;
 }
 
