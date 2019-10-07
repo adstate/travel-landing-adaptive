@@ -9,8 +9,7 @@
     margin: 0 auto 82px;
     z-index: 1;
     text-align: center;
-    overflow: hidden;
-    text-align: center;
+    padding-top: 274px;
 }
 
 .cover::before {
