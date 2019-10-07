@@ -1,0 +1,7 @@
+.comment__image {
+    border-radius: 50%;
+    margin-bottom: 42px;
+    object-fit: cover;
+    width: 97px;
+    height: 97px;
+}

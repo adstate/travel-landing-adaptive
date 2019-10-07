@@ -1,0 +1,5 @@
+.comments__container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 382px);
+    grid-column-gap: 19px;
+}

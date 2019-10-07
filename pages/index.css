@@ -12,9 +12,10 @@
 @import url(../blocks/video/video.css);
 @import url(../blocks/additional/additional.css);
 @import url(../blocks/comments/comments.css);
+@import url(../blocks/comment/comment.css);
 
 
-div, p, img, h1, h2, h3, header, footer, section {
+p, img, h1, h2, h3, header, footer {
     border: 1px solid red;
 }
 
