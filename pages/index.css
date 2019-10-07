@@ -13,6 +13,7 @@
 @import url(../blocks/additional/additional.css);
 @import url(../blocks/comments/comments.css);
 @import url(../blocks/comment/comment.css);
+@import url(../blocks/cover/cover.css);
 
 
 p, img, h1, h2, h3, header, footer {

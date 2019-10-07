@@ -1,0 +1,23 @@
+@import url(./__title/cover__title.css);
+@import url(./__subtitle/cover__subtitle.css);
+
+.cover {
+    position: relative;
+    width: 1184px;
+    height: 594px;
+    background-color: #000;
+    margin: 0 auto 82px;
+    z-index: 1;
+    text-align: center;
+    overflow: hidden;
+    text-align: center;
+}
+
+.cover::before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: url(../../vendor/images/cover__image.jpg);
+    opacity: 0.3;
+    z-index:-1;
+}
