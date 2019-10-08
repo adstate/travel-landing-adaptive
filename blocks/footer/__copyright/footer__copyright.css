@@ -7,4 +7,6 @@
     text-align: right;
     color: #FFFFFF;
     margin: 0;
+    flex: 1;
+    align-self: center;
 }
