@@ -4,6 +4,7 @@
 @import url(./__city/emblem__city.css);
 
 .emblem {
+    font-family: Inter, Arial, sans-serif;
     max-width: 1184px;
     margin: 0 auto 85px;
 }

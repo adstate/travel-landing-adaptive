@@ -3,5 +3,6 @@
 @import url(./__image/comment__image.css);
 
 .comment {
+    font-family: Inter, Arial, sans-serif;
     min-width: 382px;
 }

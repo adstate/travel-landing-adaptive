@@ -5,6 +5,7 @@
 @import url(./__item-bg/additional__item-bg.css);
 
 .additional {
+    font-family: Inter, Arial, sans-serif;
     padding-top: 102px;
     max-width: 1184px;
     margin: 0 auto;

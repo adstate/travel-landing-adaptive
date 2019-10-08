@@ -1,5 +1,8 @@
 .cover__subtitle {
-    font-family: Inter, Arial, sans-serif;
+    position: absolute;
+    left: 50%;
+    bottom: 48px;
+    transform: translateX(-50%);
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
@@ -7,4 +10,5 @@
     color: #FFFFFF;
     margin: 0 auto;
     width: 382px;
+    z-index: 1;
 }

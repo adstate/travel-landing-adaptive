@@ -3,9 +3,11 @@
 
 
 .header {
+    font-family: Inter, Arial, sans-serif;
     display: flex;
     justify-content: space-between;
     align-items: center;
     width: 1184px;
+    padding-top: 30px;
     margin: 0 auto 48px;
 }
