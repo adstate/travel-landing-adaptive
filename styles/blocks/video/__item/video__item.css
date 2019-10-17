@@ -1,9 +1,11 @@
 .video__item {
     position: relative;
-    width: 583px;
-    height: 323px;
+    max-width: 583px;
+    width: calc((100% - 16px)/2);
+    max-height: 323px;
     border-radius: 5px;
     background-color: #000000;
+    line-height: 0;
 }
 
 .video__item:hover .cover-bg {

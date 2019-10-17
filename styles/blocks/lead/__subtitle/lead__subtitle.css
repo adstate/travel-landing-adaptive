@@ -1,5 +1,5 @@
 .lead__subtitle {
-    width: 583px;
+    max-width: 583px;
     font-style: normal;
     font-weight: normal;
     font-size: 30px;

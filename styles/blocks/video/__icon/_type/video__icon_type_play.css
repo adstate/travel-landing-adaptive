@@ -4,3 +4,9 @@
     top: 30px;
     left: 30px;
 }
+
+@media screen and (max-width: 1024px) {
+    .video_icon_type_play {
+        top: 24px;
+    }
+}

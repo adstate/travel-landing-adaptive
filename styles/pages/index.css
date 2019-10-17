@@ -1,4 +1,4 @@
-@import url(../vendor/fonts/Inter/inter.css);
+@import url(../../fonts/Inter/inter.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/link/link.css);
 @import url(../blocks/header/header.css);
@@ -26,4 +26,8 @@ body {
 
 .page * {
     box-sizing: border-box;
+}
+
+div, a, img, h1, h2, p {
+    border: 1px solid red;
 }

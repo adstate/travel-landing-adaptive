@@ -5,3 +5,10 @@
     left: 30px;
     width: 322px;
 }
+
+
+@media screen and (max-width: 1024px) {
+    .video__description {
+        bottom: 24px;
+    }
+}

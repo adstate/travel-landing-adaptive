@@ -6,3 +6,14 @@
     font-family: Inter, Arial, sans-serif;
     min-width: 382px;
 }
+
+@media screen and (max-width: 1024px) {
+    .comment {
+        margin-bottom: 48px;
+        text-align: center;
+    }
+
+    .comment:last-child {
+        margin-bottom: 0;
+    }
+}

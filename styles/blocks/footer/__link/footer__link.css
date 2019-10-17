@@ -7,3 +7,10 @@
     text-decoration: unset;
     margin-right: 18px;
 }
+
+@media screen and (max-width: 1024px) {
+    .footer__link {
+        font-size: 16px;
+        line-height: 27px;
+    }
+}
