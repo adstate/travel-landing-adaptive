@@ -14,5 +14,21 @@
     .content-title {
         font-size: 42px;
         line-height: 46px;
+        margin-bottom: 24px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .content-title {
+        font-size: 32px;
+        line-height: 35px;
+        margin-bottom: 16px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .content-title {
+        padding-left: 16px;
+        padding-right: 16px;
     }
 }

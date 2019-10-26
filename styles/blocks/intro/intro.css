@@ -7,6 +7,10 @@
 .intro {
     font-family: Inter, Arial, sans-serif;
     padding-top: 80px;
-    max-width: 985px;
-    margin: 0 auto;
+}
+
+@media screen and (max-width: 768px) {
+    .intro {
+        padding-top: 64px;
+    }
 }

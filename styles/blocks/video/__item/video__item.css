@@ -1,8 +1,6 @@
 .video__item {
     position: relative;
-    max-width: 583px;
     width: calc((100% - 16px)/2);
-    max-height: 323px;
     border-radius: 5px;
     background-color: #000000;
     line-height: 0;
@@ -10,4 +8,15 @@
 
 .video__item:hover .cover-bg {
     opacity: 0.8;
+}
+
+@media screen and (max-width: 768px) {
+    .video__item {
+        width: 100%;
+        margin-bottom: 8px;
+    }
+
+    .video__item:last-child {
+        margin-bottom: 0px;
+    }
 }

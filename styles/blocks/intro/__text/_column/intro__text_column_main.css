@@ -1,4 +1,12 @@
-.intro__text_column_main {
+.intro__text_column_main.intro__text {
     width: 683px;
-    margin-right: 18px;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+@media screen and (max-width: 768px) {
+    .intro__text_column_main.intro__text {
+        font-size: 16px;
+        line-height: 27px;
+    }
 }

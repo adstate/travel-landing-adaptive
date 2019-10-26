@@ -3,9 +3,16 @@
 .intro__text {
     font-style: normal;
     font-weight: normal;
-    font-size: 14px;
-    line-height: 24px;
+    font-size: 13px;
+    line-height: 20px;
     color: #FFFFFF;
     margin-top: 0;
     margin-bottom: 0;
+}
+
+@media screen and (max-width: 768px) {
+    .intro__text {
+        font-size: 12px;
+        line-height: 19px;
+    }
 }

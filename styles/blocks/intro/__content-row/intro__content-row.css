@@ -1,5 +1,10 @@
 .intro__content-row {
     display: flex;
-    margin-bottom: 35px;
+    margin-bottom: 24px;
 }
 
+ @media screen and (max-width: 768px) {
+     .intro__content-row {
+        margin-bottom: 32px;
+     }
+ }

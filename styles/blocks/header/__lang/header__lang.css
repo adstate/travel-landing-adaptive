@@ -13,3 +13,10 @@
 .header__lang:last-of-type {
     margin-right: 0;
 }
+
+@media screen and (max-width: 768px) {
+    .header__lang {
+        font-size: 18px;
+        line-height: 96.82%;
+    }
+}
