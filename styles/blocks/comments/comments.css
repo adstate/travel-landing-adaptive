@@ -7,8 +7,9 @@
     margin: 0 auto 102px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
     .comments {
         padding-top: 64px;
+        margin-bottom: 64px;
     }
 }

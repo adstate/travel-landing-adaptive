@@ -4,10 +4,10 @@
 
 .comment {
     font-family: Inter, Arial, sans-serif;
-    min-width: 382px;
+    width: 100%;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
     .comment {
         margin-bottom: 48px;
         text-align: center;

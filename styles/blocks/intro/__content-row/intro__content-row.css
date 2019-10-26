@@ -3,7 +3,7 @@
     margin-bottom: 24px;
 }
 
- @media screen and (max-width: 768px) {
+ @media screen and (max-width: 767px) {
      .intro__content-row {
         margin-bottom: 32px;
      }

@@ -11,11 +11,13 @@
     width: 100%;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
     .lead__title {
-        max-width: 343px;
+        max-width: 375px;
         font-size: 40px;
         line-height: 44px;
         margin-bottom: 8px;
+        padding-left: 16px;
+        padding-right: 16px;
     }
 }

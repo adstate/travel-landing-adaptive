@@ -4,7 +4,12 @@
 .footer {
     font-family: Inter, Arial, sans-serif;
     display: flex;
-    max-width: 1184px;
-    margin: 0 auto;
     padding-bottom: 48px;
+}
+
+@media screen and (max-width: 767px) {
+    .footer {
+        flex-direction: column;
+        padding-bottom: 24px;
+    }
 }

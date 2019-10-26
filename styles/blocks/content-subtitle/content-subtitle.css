@@ -10,13 +10,13 @@
     margin: 0 auto 72px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
     .content-subtitle {
         margin-bottom: 56px;
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
     .content-subtitle {
         font-size: 16px;
         line-height: 23px;

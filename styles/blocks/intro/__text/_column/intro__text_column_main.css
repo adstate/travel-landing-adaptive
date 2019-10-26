@@ -4,7 +4,7 @@
     line-height: 24px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
     .intro__text_column_main.intro__text {
         font-size: 16px;
         line-height: 27px;
