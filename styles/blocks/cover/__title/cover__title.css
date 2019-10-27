@@ -1,7 +1,8 @@
 .cover__title {
     position: absolute;
     top: 50%;
-    transform: translateY(-50%);
+    left: 50%;
+    transform: translate(-50%, -50%);
     font-style: normal;
     font-weight: 900;
     font-size: 72px;
@@ -13,8 +14,22 @@
     margin: 0;
 }
 
+@media screen and (max-width: 1279px) {
+    .cover__title {
+        max-width: 570px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .cover__title {
+        top: 45%;
+        transform: translate(-50%, -45%);
+    }
+}
+
 @media screen and (max-width: 767px) {
     .cover__title {
+        max-width: 250px;
         font-size: 32px;
         line-height: 35px;
     }
@@ -22,7 +37,7 @@
 
 @media screen and (max-width: 464px) {
     .cover__title {
-        top: 40%;
-        transform: translateY(-40%);
+        top: 35%;
+        transform: translate(-50%, -35%);
     }
 }

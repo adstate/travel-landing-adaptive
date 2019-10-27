@@ -1,6 +1,7 @@
 @import url(./_selected/header__lang_selected.css);
 
 .header__lang {
+    position: relative;
     font-style: normal;
     font-weight: normal;
     font-size: 24px;
@@ -8,6 +9,7 @@
     text-decoration: unset;
     color: #FFFFFF;
     margin-right: 18px;
+    bottom: -5px;
 }
 
 .header__lang:last-of-type {

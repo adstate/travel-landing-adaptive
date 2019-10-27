@@ -9,6 +9,7 @@
 
 @media screen and (max-width: 1023px) {
     .video__description {
+        left: 24px;
         bottom: 24px;
     }
 }

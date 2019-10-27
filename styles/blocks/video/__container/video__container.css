@@ -1,8 +1,5 @@
 .video__container {
     display: flex;
-    max-width: 1216px;
-    padding-left: 16px;
-    padding-right: 16px;
     justify-content: space-between;
     margin: 0 auto;
 }
