@@ -22,3 +22,11 @@
         line-height: 96.82%;
     }
 }
+
+@media screen and (max-width: 464px) {
+    .header__lang {
+        margin-right: 16px;
+        font-size: 18px;
+        line-height: 96.82%;
+    }
+}
